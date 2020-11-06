@@ -6,8 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Main.unity
-    guid: a769d306514879b4dae9d84469e3c563
+    path: Assets/Scenes/Labirinto.unity
+    guid: c056e6f0e35788744879f2639eb945ca
   m_configObjects:
     com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: 01ad8145c3b507b4494d642ec871dd6c, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a02ad2b13130506489d4f89b4820dbab, type: 2}

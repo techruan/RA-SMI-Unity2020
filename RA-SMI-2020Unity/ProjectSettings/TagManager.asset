@@ -7,6 +7,7 @@ TagManager:
   - Waypoints
   - prateleira
   - Navegacao
+  - MapaPrincipal
   layers:
   - Default
   - TransparentFX

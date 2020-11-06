@@ -16,9 +16,9 @@ public class ApontaAoAlvo : MonoBehaviour
         // //Posiciona este objeto de acordo com a variavel
         // transform.position = posicaoCameraRA;
         // //Salva a posicao do alvo em 1 variavel
-        // Vector3 posicaoAlvo = new Vector3(alvo.position.x, transform.position.y, alvo.position.z);
+        Vector3 posicaoAlvo = new Vector3(alvo.position.x, transform.position.y, alvo.position.z);
         //Este objeto 'olha' na direcao do alvo
-        transform.LookAt(alvo);
+        transform.LookAt(posicaoAlvo);
         
     }
 }
